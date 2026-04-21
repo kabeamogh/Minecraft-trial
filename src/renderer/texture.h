@@ -1,0 +1,6 @@
+#ifndef TEXTURE_H
+#define TEXTURE_H
+
+unsigned int texture_load(const char* path);
+
+#endif
